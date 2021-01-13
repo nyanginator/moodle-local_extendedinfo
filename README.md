@@ -119,5 +119,5 @@ Uninstall by going to Site Administration > Plugins > Plugins Overview and using
 
 Contact
 =======
-Nicholas Yang\
-https://nicky.pairsite.com
+Nicholas Yang  
+https://nyanginator.com
